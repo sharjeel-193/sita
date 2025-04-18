@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    transition: all 0.3s linear;
+}
+
+.form-field {
+    background-color: theme(colors[background]);
+    outline: 1px solid theme(colors[lightGray]);
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.form-field:focus {
+    outline: 2px solid theme(colors[white]);
+}
+
+.effect-cross-icon,
+.finalized-effect-card-icon  {
+    display: none;
+}
+
+.effect-card:hover .effect-cross-icon {
+    display: block;
+}
+
+.finalized-effect-card:hover .finalized-effect-card-icon {
+    display: block;
+}

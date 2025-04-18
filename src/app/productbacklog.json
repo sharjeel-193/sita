@@ -1,0 +1,65 @@
+[ {
+  "title": "PBI 1",
+  "id": "311",
+  "description": "Implement a natural language processing (NLP) algorithm to understand complex user queries.",
+  "user-story-id": ["211", "212"],
+  "status" : ["not-in-sprint", "in-sprint", "done"]
+},
+{
+  "title": "PBI 2",
+  "id": "312",
+  "description": "Develop a response generation system that generates human-like and contextually relevant responses.",
+  "user-story-id": ["211", "212", "213"],
+  "status" : ["not-in-sprint", "in-sprint", "done"]
+},
+ {
+  "title": "PBI 3",
+  "id": "313",
+  "description": "Implement translation system to enable ChatGPT to comprehend and generate text in multiple languages.",
+  "user-story-id": ["211", "212", "213"],
+  "status" : ["not-in-sprint", "in-sprint", "done"]
+},
+{
+  "title": "PBI 4",
+  "id": "314",
+  "description": "Implement a language switch functionality to allow users to switch between languages seamlessly.",
+  "user-story-id": ["211", "212", "213"],
+  "status" : ["not-in-sprint", "in-sprint", "done"]
+},
+{
+  "title": "PBI 5",
+  "id": "315",
+  "description": "Develop content structuring algorithms to help users generate content outlines and structures.",
+  "user-story-id": ["211", "212", "213"],
+  "status" : ["not-in-sprint", "in-sprint", "done"]
+},
+{
+  "title": "PBI 6",
+  "id": "316",
+  "description": "Implement brainstorming algorithms to assist users in generating ideas for articles, essays, or stories.",
+  "user-story-id": ["211", "212", "213"],
+  "status" : ["not-in-sprint", "in-sprint", "done"]
+},
+ {
+  "title": "PBI 7",
+  "id": "317",
+  "description": "Develop writing assistance algorithms to help users draft and edit content, including grammar and style corrections.",
+  "user-story-id": ["211", "212", "213"],
+  "status" : ["not-in-sprint", "in-sprint", "done"]
+},
+{
+  "title": "PBI 8",
+  "id": "318",
+  "description": "Develop a problem-solving system to provide step-by-step guidance and explanations.",
+  "user-story-id": ["211", "212", "213"],
+  "status" : ["not-in-sprint", "in-sprint", "done"]
+},
+ {
+  "title": "PBI 9",
+  "id": "319",
+  "description": "Implement problem analysis algorithms to analyze complex problems and provide alternative solutions or perspectives.",
+  "user-story-id": ["211", "212", "213"],
+  "status" : ["not-in-sprint", "in-sprint", "done"]
+}
+]
+  

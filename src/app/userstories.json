@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Userstory 1",
+    "id": "01",
+    "description": "As a user, I want ChatGPT to help me solve problems by providing step-by-step guidance and explanations.",
+    "effects_id": "123"
+  },
+  {
+    "title": "Userstory 2",
+    "id": "02",
+    "description": "As a content creator, I want ChatGPT to help me brainstorm ideas for articles, essays, or stories.",
+    "effects_id": "124"
+  },
+  {
+    "title": "Userstory 3",
+    "id": "03",
+    "description": "As a multilingual user, I want ChatGPT to comprehend and generate text in multiple languages.",
+    "effects_id": "125"
+  }
+]

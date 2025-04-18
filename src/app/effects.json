@@ -1,0 +1,34 @@
+[
+  {
+    "dimension": "Individual",
+    "title": "Effect 1" ,
+    "id": "123",
+    "description": "Time saving, opportunity to increase personal knowledge and find resources on particular subjects.",
+    "type": "Positive",
+    "categories": [ "Lifelong Learning", "Privacy"]
+  },
+  {
+    "dimension": "Social",
+    "title": "Effect 2" ,
+    "id": "124",
+    "description": "Easy and equal access to shared knowledge.",
+    "type": "Positive",
+    "categories": [ "Inclusiveness and Diversity"]
+  },
+  {
+    "dimension": "Environment",
+    "title": "Effect 3" ,
+    "id": "125",
+    "description": "Negative effect on the environment due to data centers.",
+    "type": "Negative",
+    "categories": ["Energy" ]
+  },
+  {
+    "dimension": "Technical",
+    "title": "Effect 4" ,
+    "id": "126",
+    "description": "Ethical concerns and the potential for bias.",
+    "type": "Negative",
+    "categories": ["Value", "Innovation"]
+  }
+]

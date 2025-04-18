@@ -1,0 +1,27 @@
+[
+    {
+        "product_name": "DALL-E",
+        "description": "DALL-E is an AI model developed by OpenAI that generates images from textual descriptions. It is capable of creating diverse and high-quality images based on the input it receives. DALL-E has various applications in art generation, design, and visual content creation.",
+        "iconImg": "/dummyImages/dalle.png",
+        "id":"788"
+    },
+    {
+      "product_name": "Whisper",
+      "description": "Whisper (Generative Pre-trained Transformer 3) is a state-of-the-art language processing AI model developed by OpenAI. It is capable of understanding and generating human-like text based on the input it receives. GPT-3 has a wide range of applications, including text generation, translation, summarization, and more.",
+      "iconImg": "/dummyImages/whisper.png",
+      "id":"789"
+    },
+    {
+      "product_name": "Stripe",
+      "description": "Stripe is an AI model developed by OpenAI that generates images from textual descriptions. It is capable of creating diverse and high-quality images based on the input it receives. DALL-E has various applications in art generation, design, and visual content creation.",
+      "iconImg": "/dummyImages/stripes.png",
+      "id":"790"
+    },
+    {
+      "product_name": "Buzzfeed",
+      "description": "Buzzfeed is an AI model developed by OpenAI that translates natural language into code. It is capable of understanding and generating code in multiple programming languages based on the input it receives. Codex has various applications in software development, automation, and coding assistance.",
+      "iconImg": "/dummyImages/buzz.png",
+      "id":"783"
+    }
+  ]
+  
